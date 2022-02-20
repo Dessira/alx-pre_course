@@ -1,1 +1,2 @@
-My second readme
+My second readme.
+Readme update for alx-school project
